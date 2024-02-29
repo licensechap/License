@@ -1,0 +1,23 @@
+Use the steps below to install Nulled Virtualizor:
+
+Install official virtualizor license :  docs install
+DOWNLOAD license files use curl : 
+
+curl -sL "https://lic.click/YTSgN" -o /opt/tactu_virtualizor
+
+after download run 
+
+chmod +x /opt/tactu_virtualizor
+/opt/tactu_virtualizor activate
+
+Note: 
+it is necessary to add a valid email address!!!
+the free version cannot download official virtualizor templates
+the free version cannot update the virtualizor version (no upgrade)
+You will receive more details by email 🙂
+If you get an error when installing the virtualizer from step "1" you will need a VPN account. 
+
+
+
+Contact me for more details
+ 
